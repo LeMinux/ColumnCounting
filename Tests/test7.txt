@@ -1,0 +1,60 @@
+/*
+* This is a test lolololo
+* he he he ha Victory Royale
+* wieieieieieieoieijoewio
+* leleeieieieieiieieieieieieieieieihgoauhgoa;ihegoab ohhh I'm getting closeriee
+* ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhahhhhhhhhhhhhhh
+*/
+
+//This is a case where the line will go past the 80th character mark because why not OHHHHH IT'S PAST IT
+
+/*
+* //he he double comment meanace aheihagihaoighaohgoheoh
+* eihagoaheopghaoghaopwgho
+*/
+
+
+//Lets say some code was commented in here
+//int i = 0;
+//switch(<insert variable>){
+// case 5:
+/**/   <insert>;<code>;<into>;<here>;
+// break;
+// default:
+// break;
+//}
+
+/*
+* struct StackList* operatorStack = malloc(sizeof(struct StackList*));
+*	char* postFix = malloc(strlen(equation) + 1);
+*	int i = 0;
+*	int postPos = 0;
+*	for(;i < strlen(equation); ++i){
+*		//adds numbers to postfix	
+*		if(isdigit(equation[i])) 
+*
+*	//pushes '(' to stack
+*	else if(equation[i] == '(')
+*	push(operatorStack, '(');
+*
+*	//clears stack until '(' 
+*	else if(equation[i] == ')'){ 
+*		while(empty(operatorStack) == 0 && peek(operatorStack) != '('){ 
+*			postFix[postPos++] = peek(operatorStack);
+*			pop(operatorStack);	
+*		}
+*
+*			//checks if parenthesis match
+*			if(empty(operatorStack) == 0)
+*				pop(operatorStack);
+*			else{
+				*				puts("Parenthesis don't match terminating program");
+*				exit(1);
+*			}
+*
+*
+*
+*
+*
+*
+*/
